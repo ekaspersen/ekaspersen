@@ -10,11 +10,19 @@
 - e-mail: ekhatwork@gmail.com
 
 ### Skills:
-- HTML and SEO
-- CSS, SCSS/SASS, TailwindCSS, Bootstrap(3)
-- JS
-- php/mysql
-- taking React.js course next month
-- Figma
-- Git branching and Jira
-- Web/UX-design principles
+**Development related**
+- HTML
+- SEO optimization
+- CSS/SCSS
+- TailwindCSS and bootstrap 3
+- JavaScript
+- git branching 
+- Jira
+- RestAPI
+- NPM
+- Vite
+- Creating/using databases with php/mySql for mySql servers 
+**Design related**
+- Responsive Design
+- UI/UX design
+- Wireframing and prototyping tools (Figma, open to learn more)
