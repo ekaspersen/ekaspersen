@@ -22,6 +22,7 @@
 - NPM
 - Vite
 - Creating/using databases with php/mySql for mySql servers 
+
 **Design related**
 - Responsive Design
 - UI/UX design
