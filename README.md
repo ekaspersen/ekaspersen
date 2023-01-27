@@ -16,5 +16,5 @@
 - php/mysql
 - taking React.js course next month
 - Figma
-- Some web/UX-design principles, i am a very design/fashion oriented person 
 - Git branching and Jira
+- Web/UX-design principles
