@@ -3,7 +3,7 @@
 # Eskil K. Hagens Github profile
 
 ### About me:
- I’m currently a Front-end dev. student at Noroff - School of technology. I currently 4 years of educational and Youtube experience in IT and web development and some client experience.
+ I’m currently a Front-end dev. student at Noroff - School of technology. I currently have 4 years of educational experience with IT and web development and some direct client experience. [(Panorama Sørenga)](https://panoramarestaurant.no/)
 
 ### Contact:
 - LinkedIn: https://www.linkedin.com/in/eskil-k-hagen-43b7011a0/
